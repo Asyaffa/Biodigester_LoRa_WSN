@@ -1,2 +1,2 @@
 # Biodigester LoRa WSN
-Biodigester Network w/ 1 Operator and 5 Monitor
+Biodigester Network w/ 1 Web Monitoring Node and 5 LCD Monitoring Node
