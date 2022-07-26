@@ -1,3 +1,8 @@
+/*
+    Written by Aqilla Rahman Musyaffa
+    Email: asyaffa777@gmail.com
+*/
+
 //Get current sensor readings when the page loads  
 window.addEventListener('load', getReadings);
 
