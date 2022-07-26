@@ -1,3 +1,8 @@
+/*
+    Written by Aqilla Rahman Musyaffa
+    Email: asyaffa777@gmail.com
+*/
+
 #include "LittleFS.h"
 
 #include <ESP8266WiFi.h>
