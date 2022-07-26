@@ -1,3 +1,7 @@
+/*
+    Written by Aqilla Rahman Musyaffa
+*/
+
 #include <SPI.h>
 #include <LoRa.h>
 #include <LiquidCrystal_I2C.h>
