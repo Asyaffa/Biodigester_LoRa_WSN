@@ -1,3 +1,8 @@
+/*
+    Written by Aqilla Rahman Musyaffa
+    Email: asyaffa777@gmail.com
+*/
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <max6675.h>
